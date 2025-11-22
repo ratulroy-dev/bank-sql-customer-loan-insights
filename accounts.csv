@@ -1,0 +1,6 @@
+account_id,customer_id,account_type,balance
+101,1,Savings,5000.50
+102,1,Checking,1200.00
+103,2,Savings,8800.75
+104,3,Checking,650.00
+105,4,Savings,4000.00
