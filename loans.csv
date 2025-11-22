@@ -1,0 +1,4 @@
+loan_id,customer_id,loan_amount,interest_rate,duration_years,loan_status
+9001,1,10000,7.5,5,Approved
+9002,2,15000,6.8,4,Pending
+9003,3,5000,8.0,3,Rejected
